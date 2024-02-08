@@ -1,2 +1,2 @@
-Reproducing The "Brain Typing" Paper
+Idea tp Text: Reproducing The "Brain Typing" Paper with PyTorch
 ==========================================
