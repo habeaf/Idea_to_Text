@@ -1,2 +1,2 @@
-Idea tp Text: Reproducing The "Brain Typing" Paper with PyTorch
+Idea to Text: Reproducing The "Brain Typing" Paper with PyTorch
 ==========================================
